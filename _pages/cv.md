@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Statistics, Texas A&M University, 2021 - Present
+  * Advisor: Dr. Anirban Bhattacharya. Also working with Dr. Stephan Wojtowytsch.
+  * GPA: 4.0 / 4.0
+* B.S. in Statistics and B.A in Economics, Seoul National Univeristy, 2013 - 2020
+  * Minor in Computer Science and Engineering
+  * Graduation with Honors (Summa Cum Laude)
+  * Conducted Mandatory Military Service during the undergrad (2014 - 2016) 
+  * GPA (Overall, Major / Total): 3.96, 4.09 / 4.3
 
 Work experience
 ======
@@ -26,6 +31,19 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
+Publications
+======
+
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
@@ -36,24 +54,10 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<!---
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+-->
