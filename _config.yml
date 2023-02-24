@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -96,13 +96,13 @@ author:
 #  flickr           :
 #  facebook         :
 #  foursquare       :
-  github           : "https://github.com/wldyddl5510"
+  github           : "wldyddl5510"
 #  google_plus      :
 #  keybase          :
 #  instagram        :
 #  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
 #  lastfm           :
-  linkedin         : "www.linkedin.com/in/jiyoung-park-b13469191"
+  linkedin         : "Jiyoung-park-b13469191"
 #  orcid            : "http://orcid.org/yourorcidurl"
 #  pinterest        :
 #  soundcloud       :
