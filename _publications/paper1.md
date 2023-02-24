@@ -3,7 +3,7 @@ title: "Implicit Bias and Explicit Regularization: A Case Study in Optimization 
 collection: publications
 permalink: /publication/paper1
 excerpt: 'This paper deals with Asymptotics of Shallow Neural Network Function.'
-date: TBD
+date: 2023-02-24
 <!---
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
