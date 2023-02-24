@@ -3,11 +3,9 @@ title: "Implicit Bias and Explicit Regularization: A Case Study in Optimization 
 collection: publications
 permalink: /publication/paper1
 excerpt: 'This paper deals with Asymptotics of Shallow Neural Network Function.'
-date: 2023-02-24
-<!---
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
--->
+date: TBD
+venue: 'TBD'
+paperurl: '#'
 citation: 'Jiyoung Park, Ian Pelakh, Stephan Wojtowytsch (2023?). "Implicit Bias and Explicit Regularization: A Case Study in Optimization Using Known Minimum Norm Interpolants." <i>TBD</i>. 1(1).'
 ---
 This paper deals with Asymptotics of Shallow Neural Network Function.
