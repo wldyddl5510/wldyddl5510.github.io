@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Statistics, Texas A&M University, 2021 - Present
-  * Advisor: Dr. Anirban Bhattacharya. Also working with Dr. Stephan Wojtowytsch.
+  * Advisor: [Dr. Anirban Bhattacharya](https://sites.google.com/view/anirban-bhattacharya-tamu/). Also working with [Dr. Stephan Wojtowytsch](https://www.swojtowytsch.com/)
   * GPA: 4.0 / 4.0
 * B.S. in Statistics and B.A in Economics, Seoul National Univeristy, 2013 - 2020
   * Minor in Computer Science and Engineering
