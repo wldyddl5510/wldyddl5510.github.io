@@ -22,12 +22,11 @@ Education
 
 Work experience
 ======
-* Research Resident (2019.05 - 2021.02)
-  * KC-ML2
+* Research Resident, KC-ML2 (2019.05 - 2021.02)
   * Research in Graph Neural Network and Reinforcement Learning. 
   * Supervisor: Dr. Chan. Y. Park
 
-* Undergrad Intern In Seoul National University
+* Undergrad Intern, Seoul National University
   * Biostatistics Lab. (2019.03 - 2019.08)
     * Autoencoder based Anomaly Detection Algorithm Project. Participated in Data processing.
     * Advisor: Dr. Myunghee Cho Paik
@@ -38,8 +37,7 @@ Work experience
     * Hierarchical Bayesian Regression for Korean Schizophrenia data.
     * Advisor: Dr. Chae Young Lim
 
-* Software Engineer Intern (2018.07 - 2018.08)
-  * Naver Webtoon
+* Software Engineer Intern, Naver Webtoon (2018.07 - 2018.08)
   * Implemented HBase API for log-data processing, and compared the performance with SQL based codes.
 
 Publications
