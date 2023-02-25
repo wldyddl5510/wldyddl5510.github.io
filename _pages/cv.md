@@ -22,15 +22,21 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Resident (2019.05 - 2021.02)
+  * KC-ML2
+  * Research in Graph Neural Network and Reinforcement Learning. 
+  * Supervisor: Dr. Chan. Y. Park
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Undergrad Intern In Seoul National University
+  * Biostatistics Lab. (2019.03 - 2019.08)
+    * Autoencoder based Anomaly Detection Algorithm Project. Participated in Data processing.
+    * Advisor: Dr. Myunghee Cho Paik
+  * Time Series and Predictive Analytics Lab (2018.12 - 2019.02)
+    * RNN based Air Pollution Prediction.
+    * Advisor: Dr. Sangyeol Lee
+  * Spatial Statistics Lab.
+    * Hierarchical Bayesian Regression for Korean Schizophrenia data.
+    * Advisor: Dr. Chae Young Lim
 
 Publications
 ======
@@ -41,18 +47,27 @@ Publications
   
 Teaching
 ======
+
+* Teaching Assistant
+  * Stat 445/645: Applied Biostatistics and Data Analysis (Fall 2022)
+    * Grading
+    * Master Level Course
+  * Stat 642: Methods of Stat II (Spring 2022)
+    * Grading
+    * Master Level Course
+  * Stat 652: Stat In Research II (Fall 2021)
+    * Implementing R codes for course materials.
+    * Master Level Course
+<!---
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, R, C, Java, C++, Assembly (x86-64)
+* Libraries & Framework: Pytorch, Rcpp, Linux, Git, SQL, Latex, HBase
 
 <!---
 Talks
