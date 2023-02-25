@@ -60,6 +60,7 @@ Teaching
   * Stat 652: Stat In Research II (Fall 2021)
     * Implementing R codes for course materials.
     * Master Level Course
+
 <!---
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
