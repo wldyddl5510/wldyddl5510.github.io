@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A full [CV](http://wldyddl5510.github.io/files/cv.pdf)
+
 Education
 ======
 * Ph.D in Statistics, Texas A&M University, 2021 - Present
