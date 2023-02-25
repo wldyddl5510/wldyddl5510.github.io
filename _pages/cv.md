@@ -34,9 +34,13 @@ Work experience
   * Time Series and Predictive Analytics Lab (2018.12 - 2019.02)
     * RNN based Air Pollution Prediction.
     * Advisor: Dr. Sangyeol Lee
-  * Spatial Statistics Lab.
+  * Spatial Statistics Lab. (2017.12 - 2018.02)
     * Hierarchical Bayesian Regression for Korean Schizophrenia data.
     * Advisor: Dr. Chae Young Lim
+
+* Software Engineer Intern (2018.07 - 2018.08)
+  * Naver Webtoon
+  * Implemented HBase API for log-data processing, and compared the performance with SQL based codes.
 
 Publications
 ======
