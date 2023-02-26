@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A full [CV](http://wldyddl5510.github.io/files/cv_230225.pdf)
+A full [CV](http://wldyddl5510.github.io/files/cv_230226.pdf)
 
 Education
 ======
