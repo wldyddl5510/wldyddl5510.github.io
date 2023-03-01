@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-A full [CV](http://wldyddl5510.github.io/files/cv_230226.pdf)
+A pdf version [CV](http://wldyddl5510.github.io/files/cv_230226.pdf)
 
 Education
 ======
 * Ph.D in Statistics, Texas A&M University, 2021 - Present
   * Advisor: [Dr. Anirban Bhattacharya](https://sites.google.com/view/anirban-bhattacharya-tamu/). Also working with [Dr. Stephan Wojtowytsch](https://www.swojtowytsch.com/)
   * GPA: 4.0 / 4.0
-* B.S. in Statistics and B.A in Economics, Seoul National Univeristy, 2013 - 2020
+* B.A in Economics and B.S. in Statistics, Seoul National Univeristy, 2013 - 2020
   * Minor in Computer Science and Engineering
   * Graduation with Honors (Summa Cum Laude)
   * Conducted Mandatory Military Service during the undergrad (2014 - 2016) 
