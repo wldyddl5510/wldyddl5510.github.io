@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A pdf version [CV](http://wldyddl5510.github.io/files/cv_230226.pdf)
+A pdf version [CV](http://wldyddl5510.github.io/files/cv_230601.pdf)
 
 Education
 ======
