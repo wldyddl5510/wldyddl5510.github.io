@@ -26,8 +26,8 @@ Work experience
 ======
 * NSF Math Sciences Graduate Internship
   * National Institute of Standards and Technology (NIST), Gaithersburg (2023.05.22 - 2023.07.28).
-  * Topic: Scientific Image Processing.
   * Supervisor: [Dr. Gunay Dogan](http://gunaydogan.info/).
+  * Topic: Geometric Uncertainty Quantification in Image Segmentation (Work in Progress)
 * Research Resident, KC-ML2 (2019.05 - 2021.02)
   * Research in Graph Neural Network and Reinforcement Learning. 
   * Supervisor: [Dr. Chan Y. Park](https://www.linkedin.com/in/chan-youn-park/).
