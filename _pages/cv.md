@@ -47,8 +47,8 @@ Work experience
   * Implemented HBase API for log-data processing, and compared the performance with SQL based codes.
 
 Publications
-* **Jiyoung Park**, Ian Pelakh, Stephan Wojtowytsch (2023). "Minimum norm interpolation by shallow networks: Explicit regularization and implicit bias". *Neurips 2023*. To appear.
 ======
+* **Jiyoung Park**, Ian Pelakh, Stephan Wojtowytsch (2023). "Minimum norm interpolation by shallow networks: Explicit regularization and implicit bias". *Neurips 2023*. To appear.
 
 Teaching
 ======
