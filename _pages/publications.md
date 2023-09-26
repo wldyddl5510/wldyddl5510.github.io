@@ -11,6 +11,8 @@ author_profile: true
 --->
 {% include base_path %}
 
+## Approximation Theory
+
 * **Jiyoung Park**, Ian Pelakh, Stephan Wojtowytsch (2023). "Minimum norm interpolation by shallow networks: Explicit regularization and implicit bias". *Neurips 2023*. To appear.
 
 <!---
