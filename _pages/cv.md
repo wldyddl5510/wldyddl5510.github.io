@@ -16,7 +16,7 @@ Education
 * Ph.D in Statistics, Texas A&M University, 2021 - Present.
   * Advisor: [Dr. Anirban Bhattacharya](https://sites.google.com/view/anirban-bhattacharya-tamu/). Also working with [Dr. Stephan Wojtowytsch](https://www.swojtowytsch.com/).
   * GPA: 4.0 / 4.0
-* Master in Mathematics, Texas A\&M University, 2023.08 - Present.
+* Master in Mathematics, Texas A\&M University, 2023 - Present.
     * Advisor: [Dr. Jonathan W. Siegel](https://jwsiegel2510.github.io/).
 * B.A in Economics and B.S. in Statistics, Seoul National Univeristy, 2013 - 2020.
   * Minor in Computer Science and Engineering.
