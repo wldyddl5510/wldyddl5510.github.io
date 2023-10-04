@@ -31,8 +31,9 @@ Work experience
   * Supervisor: [Dr. Gunay Dogan](http://gunaydogan.info/).
   * Topic: Geometric Uncertainty Quantification in Image Segmentation (Work in Progress).
 * Research Resident, KC-ML2 (2019.05 - 2021.02).
-  * Research in Graph Neural Network and Reinforcement Learning. 
   * Supervisor: [Dr. Chan Y. Park](https://www.linkedin.com/in/chan-youn-park/).
+  * Research in Graph Neural Network and Reinforcement Learning. 
+    * [My blog post about Graph Neural Network and GraphDB](https://www.kc-ml2.com/posts/blog_GraphDB&GNN).
 
 * Undergrad Intern, Seoul National University.
   * Biostatistics Lab (2019.03 - 2019.08).
