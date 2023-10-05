@@ -13,7 +13,7 @@ A pdf version [CV](http://wldyddl5510.github.io/files/cv.pdf).
 
 Education
 ======
-* Ph.D in Statistics, Texas A&M University, 2021 - Present.
+* Ph.D. in Statistics, Texas A&M University, 2021 - Present.
   * Advisor: [Dr. Anirban Bhattacharya](https://sites.google.com/view/anirban-bhattacharya-tamu/).
   * GPA: 4.0 / 4.0
 * Master in Mathematics, Texas A&M University, 2023 - Present.
@@ -34,7 +34,8 @@ Work experience
   * Supervisor: [Dr. Chan Y. Park](https://www.linkedin.com/in/chan-youn-park/).
   * Research in Graph Neural Network and Reinforcement Learning. 
     * [My blog post about Graph Neural Network and GraphDB](https://www.kc-ml2.com/posts/blog_GraphDB&GNN).
-
+* Software Engineer Intern, Naver Webtoon (2018.07 - 2018.08)
+  * Implemented HBase API for log-data processing, and compared the performance with SQL based API codes.
 * Undergrad Intern, Seoul National University.
   * Biostatistics Lab (2019.03 - 2019.08).
     * Autoencoder based Anomaly Detection Algorithm Project. Participated in Data processing.
@@ -45,9 +46,6 @@ Work experience
   * Spatial Statistics Lab (2017.12 - 2018.02).
     * Hierarchical Bayesian Regression for Korean Schizophrenia data.
     * Advisor: [Dr. Chae Young Lim](https://limcstat.github.io/).
-
-* Software Engineer Intern, Naver Webtoon (2018.07 - 2018.08)
-  * Implemented HBase API for log-data processing, and compared the performance with SQL based codes.
 
 Publications
 ======
