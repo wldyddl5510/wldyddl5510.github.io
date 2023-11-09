@@ -49,7 +49,7 @@ Work experience
 
 Publications
 ======
-* **Jiyoung Park**, Ian Pelakh, Stephan Wojtowytsch (2023). "Minimum norm interpolation by perceptra: Explicit regularization and implicit bias". *Neurips 2023*.
+* **Jiyoung Park**, Ian Pelakh, Stephan Wojtowytsch (2023). "[Minimum norm interpolation by perceptra: Explicit regularization and implicit bias](https://openreview.net/forum?id=MlrFYNo1yc)". *Neurips 2023*.
 
 Teaching
 ======
