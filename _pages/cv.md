@@ -23,6 +23,10 @@ Education
   * Graduation with Honors (Summa Cum Laude).
   * Conducted Mandatory Military Service during the undergrad (2014 - 2016).
   * GPA (Overall, Major / Total): 3.96, 4.09 / 4.3
+ 
+Publications
+======
+* **Jiyoung Park**, Ian Pelakh, Stephan Wojtowytsch (2023). "Minimum norm interpolation by perceptra: Explicit regularization and implicit bias". *Neurips 2023*. [Paper](https://arxiv.org/abs/2311.06138), [Slides](http://wldyddl5510.github.io/files/radial_sym_slides.pdf).
 
 Work experience
 ======
@@ -46,10 +50,6 @@ Work experience
   * Spatial Statistics Lab (2017.12 - 2018.02).
     * Hierarchical Bayesian Regression for Korean Schizophrenia data.
     * Advisor: [Dr. Chae Young Lim](https://limcstat.github.io/).
-
-Publications
-======
-* **Jiyoung Park**, Ian Pelakh, Stephan Wojtowytsch (2023). "Minimum norm interpolation by perceptra: Explicit regularization and implicit bias". *Neurips 2023*. [Paper](https://arxiv.org/abs/2311.06138).
 
 Teaching
 ======
