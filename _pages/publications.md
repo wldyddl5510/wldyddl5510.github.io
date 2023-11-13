@@ -13,7 +13,7 @@ author_profile: true
 
 ## Approximation Theory & Statistical Learning Theory
 
-* **Jiyoung Park**, Ian Pelakh, Stephan Wojtowytsch (2023). "Minimum norm interpolation by perceptra: Explicit regularization and implicit bias". *NeurIPS 2023*. [Paper](https://openreview.net/forum?id=MlrFYNo1yc), [Slides](http://wldyddl5510.github.io/files/radial_sym_slides.pdf).
+* **Jiyoung Park**, Ian Pelakh, Stephan Wojtowytsch (2023). "Minimum norm interpolation by perceptra: Explicit regularization and implicit bias". *NeurIPS 2023*. [Paper](https://arxiv.org/abs/2311.06138), [Slides](http://wldyddl5510.github.io/files/radial_sym_slides.pdf).
 
 <!---
 {% for post in site.publications reversed %}
