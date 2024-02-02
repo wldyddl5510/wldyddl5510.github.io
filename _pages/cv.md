@@ -55,15 +55,14 @@ Teaching
 ======
 
 * Teaching Assistant
-  * Stat 445/645: Applied Biostatistics and Data Analysis (Fall 2022).
+  * Stat 438: Bayesian Statistics (Undergrad) (Spring 2024)
+    * Grading, Writing solutions, Implementing Python codes for course materials. 
+  * Stat 445/645: Applied Biostatistics and Data Analysis (Master course) (Fall 2022).
     * Grading.
-    * Master Level Course.
-  * Stat 642: Methods of Stat II (Spring 2022).
+  * Stat 642: Methods of Stat II (Master course) (Spring 2022).
     * Grading.
-    * Master Level Course.
-  * Stat 652: Stat In Research II (Fall 2021).
+  * Stat 652: Stat In Research II (Master course) (Fall 2021).
     * Implementing R codes for course materials.
-    * Master Level Course.
   
 Skills
 ======
