@@ -33,7 +33,7 @@ Work experience
 * NSF Math Sciences Graduate Internship.
   * National Institute of Standards and Technology (NIST), Gaithersburg (2023.05.22 - 2023.07.28).
   * Supervisor: [Dr. Gunay Dogan](http://gunaydogan.info/).
-  * Topic: Probabilistic U-Net with Kendall Shape Spaces for Geometry-Aware Segmentations of Images [Preprint](https://arxiv.org/abs/2410.14017)
+  * Topic: Probabilistic U-Net with Kendall Shape Spaces for Geometry-Aware Segmentations of Images. [Preprint](https://arxiv.org/abs/2410.14017).
 * Research Resident, KC-ML2 (2019.05 - 2021.02).
   * Supervisor: [Dr. Chan Y. Park](https://www.linkedin.com/in/chan-youn-park/).
   * Research in Graph Neural Network and Reinforcement Learning. 
