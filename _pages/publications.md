@@ -18,8 +18,3 @@ author_profile: true
 ## Miscellaneous
 
 * **Jiyoung Park**, Günay Doğan (2024), "Probabilistic U-Net with Kendall Shape Spaces for Geometry-Aware Segmentations of Images". *preprint*. [Paper](https://arxiv.org/abs/2410.14017).
-<!---
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
---->
