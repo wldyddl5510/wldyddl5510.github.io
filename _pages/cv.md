@@ -26,14 +26,18 @@ Education
  
 Publications
 ======
+## Published & Accepted Articles
 * **Jiyoung Park**, Ian Pelakh, Stephan Wojtowytsch (2023). "Minimum norm interpolation by perceptra: Explicit regularization and implicit bias". *Neurips 2023*. [Paper](https://arxiv.org/abs/2311.06138), [Slides](http://wldyddl5510.github.io/files/radial_sym_slides.pdf).
+
+## Preprints
+* **Jiyoung Park**, Günay Doğan (2024). ``Probabilistic U-Net with Kendall Shape Spaces for Geometry-Aware Segmentations of Images". [Arxiv](https://arxiv.org/abs/2410.14017).
 
 Work experience
 ======
 * NSF Math Sciences Graduate Internship.
   * National Institute of Standards and Technology (NIST), Gaithersburg (2023.05.22 - 2023.07.28).
-  * Supervisor: [Dr. Gunay Dogan](http://gunaydogan.info/).
-  * Topic: Probabilistic U-Net with Kendall Shape Spaces for Geometry-Aware Segmentations of Images. [Preprint](https://arxiv.org/abs/2410.14017).
+  * Supervisor: [Dr. Günay Doğan](http://gunaydogan.info/).
+  * Topic: Geometry in Shape analysis.
 * Research Resident, KC-ML2 (2019.05 - 2021.02).
   * Supervisor: [Dr. Chan Y. Park](https://www.linkedin.com/in/chan-youn-park/).
   * Research in Graph Neural Network and Reinforcement Learning. 
