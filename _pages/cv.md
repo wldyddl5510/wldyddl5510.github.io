@@ -37,7 +37,7 @@ Work experience
 * NSF Math Sciences Graduate Internship.
   * National Institute of Standards and Technology (NIST), Gaithersburg (2023.05.22 - 2023.07.28).
   * Supervisor: [Dr. Günay Doğan](http://gunaydogan.info/).
-  * Topic: Geometry in Shape analysis.
+  * Topic: Geometric shape analysis.
 * Research Resident, KC-ML2 (2019.05 - 2021.02).
   * Supervisor: [Dr. Chan Y. Park](https://www.linkedin.com/in/chan-youn-park/).
   * Research in Graph Neural Network and Reinforcement Learning. 
