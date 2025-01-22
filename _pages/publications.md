@@ -11,6 +11,12 @@ author_profile: true
 --->
 {% include base_path %}
 
+(\* denotes equal contribution, alphabetically ordered authorship)
+
+## Non-Euclidean Statistics
+
+* Jakwang Kim\*, **Jiyoung Park**\*, Anirban Bhattacharya (2025). "Robust Estimation in metric spaces: Achieving Exponential Concentration with a Fr\'echet Median". *AISTATS 2025*.
+
 ## Approximation Theory & Statistical Learning Theory
 
 * **Jiyoung Park**, Ian Pelakh, Stephan Wojtowytsch (2023). "Minimum norm interpolation by perceptra: Explicit regularization and implicit bias". *NeurIPS 2023*. [Paper](https://arxiv.org/abs/2311.06138), [Slides](http://wldyddl5510.github.io/files/radial_sym_slides.pdf).
