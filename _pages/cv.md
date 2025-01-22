@@ -61,6 +61,10 @@ Teaching
 ======
 
 * Teaching Assistant
+  * Stat 689: Special topics in Statistics-Advanced Bayes (Graduate) (Spring 2025)
+    * Grading, Office hours.
+  * Stat 633: Advanced Bayesian Modeling and Computation (Graduate) (Fall 2024)
+    * Grading, Office hours.
   * Stat 438: Bayesian Statistics (Undergrad) (Spring 2024)
     * Grading, Writing solutions, Implementing Python codes for course materials. 
   * Stat 445/645: Applied Biostatistics and Data Analysis (Master course) (Fall 2022).
