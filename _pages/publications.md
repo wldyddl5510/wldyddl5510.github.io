@@ -15,7 +15,7 @@ author_profile: true
 
 ## Non-Euclidean Statistics
 
-* Jakwang Kim\*, **Jiyoung Park**\*, Anirban Bhattacharya (2025). "Robust Estimation in metric spaces: Achieving Exponential Concentration with a Fr\'echet Median". *AISTATS 2025*.
+* Jakwang Kim\*, **Jiyoung Park**\*, Anirban Bhattacharya (2025). "Robust Estimation in metric spaces: Achieving Exponential Concentration with a Fr\'echet Median". *AISTATS 2025*. Paper (to be added), Slides, [Codes](https://github.com/wldyddl5510/Frechet_median_of_means/)
 
 ## Approximation Theory & Statistical Learning Theory
 
