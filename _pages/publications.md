@@ -6,10 +6,11 @@ author_profile: true
 ---
 
 <!---{% if author.googlescholar %}--->
-  You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=eYYeNugAAAAJ&hl=en&oi=ao).
 <!---{% endif %}--->
 
 {% include base_path %}
+
+ You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=eYYeNugAAAAJ&hl=en&oi=ao).
 
 (\* denotes equal contribution, alphabetically ordered authorship)
 
