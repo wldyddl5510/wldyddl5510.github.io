@@ -44,18 +44,8 @@ Work experience
   * Supervisor: [Dr. Chan Y. Park](https://www.linkedin.com/in/chan-youn-park/).
   * Research in Graph Neural Network and Reinforcement Learning. 
     * [My blog post about Graph Neural Network and GraphDB](https://www.kc-ml2.com/posts/blog_GraphDB&GNN).
-* Software Engineer Intern, Naver Webtoon (2018.07 - 2018.08)
+* Software Engineer Intern, Naver Webtoon (2018.07 - 2018.08).
   * Implemented HBase API for log-data processing, and compared the performance with SQL based API codes.
-* Undergrad Intern, Seoul National University.
-  * Biostatistics Lab (2019.03 - 2019.08).
-    * Autoencoder based Anomaly Detection Algorithm Project. Participated in Data processing.
-    * Advisor: [Dr. Myunghee Cho Paik](https://mcpstat.github.io/).
-  * Time Series and Predictive Analytics Lab (2018.12 - 2019.02).
-    * RNN based Air Pollution Prediction.
-    * Advisor: [Dr. Sangyeol Lee](https://sites.google.com/snu.ac.kr/tspa/).
-  * Spatial Statistics Lab (2017.12 - 2018.02).
-    * Hierarchical Bayesian Regression for Korean Schizophrenia data.
-    * Advisor: [Dr. Chae Young Lim](https://limcstat.github.io/).
 
 Teaching
 ======
