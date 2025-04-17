@@ -12,6 +12,16 @@ author_profile: true
 
  You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=eYYeNugAAAAJ&hl=en&oi=ao).
 
+ (\* denotes equal contribution, alphabetically ordered authorship)
+ 
+### Published & Accepted Articles
+* Jakwang Kim\*, **Jiyoung Park**\*, Anirban Bhattacharya (2025). "Robust Estimation in metric spaces: Achieving Exponential Concentration with a Fr\'echet Median". *AISTATS 2025*. [Paper](https://openreview.net/forum?id=Rq9EOLGpIC), [Slides](http://wldyddl5510.github.io/files/frechet_median_sildes.pdf), [Codes](https://github.com/wldyddl5510/Frechet_median_of_means/).
+* **Jiyoung Park**, Ian Pelakh, Stephan Wojtowytsch (2023). "Minimum norm interpolation by perceptra: Explicit regularization and implicit bias". *NeurIPS 2023*. [Paper](https://arxiv.org/abs/2311.06138), [Slides](http://wldyddl5510.github.io/files/radial_sym_slides.pdf).
+
+### Preprints
+* **Jiyoung Park**, Günay Doğan (2024), "Probabilistic U-Net with Kendall Shape Spaces for Geometry-Aware Segmentations of Images". *Preprint*. [Paper](https://arxiv.org/abs/2410.14017).
+
+<!---
 (\* denotes equal contribution, alphabetically ordered authorship)
 
 ## Non-Euclidean Statistics
@@ -25,3 +35,4 @@ author_profile: true
 ## Miscellaneous
 
 * **Jiyoung Park**, Günay Doğan (2024), "Probabilistic U-Net with Kendall Shape Spaces for Geometry-Aware Segmentations of Images". *Preprint*. [Paper](https://arxiv.org/abs/2410.14017).
+--->
