@@ -32,6 +32,7 @@ Publications
 * **Jiyoung Park**, Ian Pelakh, Stephan Wojtowytsch (2023). "Minimum norm interpolation by perceptra: Explicit regularization and implicit bias". *NeurIPS 2023*. [Paper](https://arxiv.org/abs/2311.06138), [Metadata](https://openreview.net/forum?id=MlrFYNo1yc), [Slides](http://wldyddl5510.github.io/files/radial_sym_slides.pdf).
 
 ### Preprints
+* **Jiyoung Park**, Abhishek Roy, Jonathan W. Siegel, Anirban Bhattacharya (2025), "Acceleration via silver step-size on Riemannian manifolds with applications to Wasserstein space". *Preprint*. [Paper](https://arxiv.org/abs/2506.06160).
 * **Jiyoung Park**, Günay Doğan (2024). "Probabilistic U-Net with Kendall Shape Spaces for Geometry-Aware Segmentations of Images". [Arxiv](https://arxiv.org/abs/2410.14017).
 
 Work experience
