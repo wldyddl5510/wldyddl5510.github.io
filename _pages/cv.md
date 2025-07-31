@@ -18,12 +18,13 @@ Education
   * GPA: 4.0 / 4.0
 * Master in Mathematics, Texas A&M University, 2023 - Present.
     * Advisor: [Dr. Jonathan W. Siegel](https://jwsiegel2510.github.io/). Co-working with [Dr. Stephan Wojtowytsch](https://www.swojtowytsch.com/).
+    * GPA: 4.0 / 4.0
 * B.A in Economics and B.S. in Statistics, Seoul National Univeristy, 2013 - 2020.
   * Minor in Computer Science and Engineering.
   * Graduation with Honors (Summa Cum Laude).
   * Conducted Mandatory Military Service during the undergrad (2014 - 2016).
   * GPA (Overall, Major / Total): 3.96, 4.09 / 4.3
- 
+ <!---
 Publications
 ======
 (\* denotes equal contribution, alphabetically ordered authorship)
@@ -34,7 +35,7 @@ Publications
 ### Preprints
 * **Jiyoung Park**, Abhishek Roy, Jonathan W. Siegel, Anirban Bhattacharya (2025), "Acceleration via silver step-size on Riemannian manifolds with applications to Wasserstein space". *Preprint*. [Paper](https://arxiv.org/abs/2506.06160).
 * **Jiyoung Park**, Günay Doğan (2024). "Probabilistic U-Net with Kendall Shape Spaces for Geometry-Aware Segmentations of Images". [Arxiv](https://arxiv.org/abs/2410.14017).
-
+--->
 Work experience
 ======
 * NSF Math Sciences Graduate Internship.
@@ -48,6 +49,7 @@ Work experience
 * Software Engineer Intern, Naver Webtoon (2018.07 - 2018.08).
   * Implemented HBase API for log-data processing, and compared the performance with SQL based API codes.
 
+<!---
 Teaching
 ======
 
@@ -58,7 +60,7 @@ Teaching
   * Stat 445/645: Applied Biostatistics and Data Analysis (Master course) (Fall 2022).
   * Stat 642: Methods of Stat II (Master course) (Spring 2022).
   * Stat 652: Stat In Research II (Master course) (Fall 2021).
-  
+--->
 Skills
 ======
 * Programming Languages: Python, R, C, Java, C++, Assembly (x86-64).
