@@ -10,6 +10,8 @@ author_profile: true
 Teaching
 ======
 
+
+### Texas A&M University
 * Teaching Assistant
   * Stat 689: Special topics in Statistics-Advanced Bayes (Graduate) (Spring 2025)
   * Stat 633: Advanced Bayesian Modeling and Computation (Graduate) (Fall 2024)
