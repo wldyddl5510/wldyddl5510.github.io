@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Teaching
-======
-
 
 ## Texas A&M University
 ### Teaching Assistant
