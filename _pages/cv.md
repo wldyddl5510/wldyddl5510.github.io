@@ -61,6 +61,7 @@ Teaching
   * Stat 642: Methods of Stat II (Master course) (Spring 2022).
   * Stat 652: Stat In Research II (Master course) (Fall 2021).
 --->
+
 Skills
 ======
 * Programming Languages: Python, R, C, Java, C++, Assembly (x86-64).
