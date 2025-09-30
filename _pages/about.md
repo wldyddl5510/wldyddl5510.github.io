@@ -12,4 +12,4 @@ My name is Jiyoung Park. I am a fourth-year Ph.D. student in Statistics at Texas
 
 I completed my undergraduate studies at Seoul National University, where I double majored in Economics and Statistics, with a minor in Computer Science and Engineering. After graduation and prior to beginning my Ph.D., I worked as a Research Resident at [KC-ML2](https://www.kc-ml2.com/), conducting research on graph neural networks and reinforcement learning under the supervision of [Chan Y. Park](https://www.linkedin.com/in/chan-youn-park/).
 
-**I am on the postdoc job market in the fall of 2025.** 
+**I am on the postdoc job market in fall 2025.** Please feel free to reach out if you know of any opportunities.
