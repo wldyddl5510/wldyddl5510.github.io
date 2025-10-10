@@ -20,7 +20,7 @@ The following materials are materials I studied for the final presentations in t
 * Minimax estimation via wavelet shrinkage: [Original paper](https://projecteuclid.org/journals/annals-of-statistics/volume-26/issue-3/Minimax-estimation-via-wavelet-shrinkage/10.1214/aos/1024691081.full) (Donoho and Johnstone. 1998), [Team presentation](http://wldyddl5510.github.io/files/minimax_besov_team.pdf).
 * Reproducing kernel Hilbert C*-module and kernel mean embeddings: [Original paper](https://www.jmlr.org/papers/v22/20-1346.html) (Hashimoto et al. 2021), [My presentation](http://wldyddl5510.github.io/files/rkhm.pdf).
 * A Unified Framework for High-Dimensional Analysis of M-Estimators with Decomposable Regularizers: [Original paper](https://arxiv.org/abs/1010.2731) (Negahban et al. 2010), [Team presentation](http://wldyddl5510.github.io/files/m_estimator.pdf).
-* Solution Manifold and Its Statistical Applications: [Original paper](https://arxiv.org/abs/2002.05297), [My presentation](http://wldyddl5510.github.io/files/Solution_Manifold.pdf).
+* Solution Manifold and Its Statistical Applications: [Original paper](https://arxiv.org/abs/2002.05297) (Chen. 2020), [My presentation](http://wldyddl5510.github.io/files/Solution_Manifold.pdf).
 
 Some handwritten notes:
 
