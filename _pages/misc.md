@@ -13,7 +13,7 @@ This page contains miscellaneous materials.
 
 ## Selected Readings and Study Slides
 
-These are a few materials I studied and made slides for, mostly as part of final presentation projects.
+These are a few materials I studied and made slides for, some of which were prepared as part of final presentation projects.
 
 * [Optimal Recovery Meets Minimax Estimation](https://arxiv.org/abs/2502.17671) (DeVore et al. 2025): [My presentation](http://wldyddl5510.github.io/files/or_me.pdf).
 * [Diffusion Models are Minimax Optimal Distribution Estimators](https://proceedings.mlr.press/v202/oko23a/oko23a.pdf) (Oko et al. 2023): [My presentation](http://wldyddl5510.github.io/files/minimax_besov_diffusion.pdf), [Report version](http://wldyddl5510.github.io/files/minimax_besov_diffusion_report.pdf) (Also contains some results of [minimax estimation of densities in Wasserstein distance](https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-3/Minimax-estimation-of-smooth-densities-in-Wasserstein-distance/10.1214/21-AOS2161.pdf)).
