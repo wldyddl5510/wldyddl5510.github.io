@@ -13,10 +13,10 @@ A pdf version [CV](http://wldyddl5510.github.io/files/cv_1104.pdf).
 
 Education
 ======
-* Ph.D. in Statistics, Texas A&M University, 2021 - Present.
+* Ph.D. in Statistics, Texas A&M University, 2021.08 - 2026.08 (expected).
   * Advisor: [Dr. Anirban Bhattacharya](https://sites.google.com/view/anirban-bhattacharya-tamu/).
   * GPA: 4.0 / 4.0
-* Master in Mathematics, Texas A&M University, 2023 - Present.
+* Master in Mathematics, Texas A&M University, 2023.08 - 2025.12.
   * Advisor: [Dr. Jonathan W. Siegel](https://jwsiegel2510.github.io/). 
   * Thesis: Statistical Analyses and minimum norm interpolation for Two-Layer Neural Networks.
   * GPA: 4.0 / 4.0
