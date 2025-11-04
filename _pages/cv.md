@@ -20,10 +20,10 @@ Education
   * Advisor: [Dr. Jonathan W. Siegel](https://jwsiegel2510.github.io/). 
   * Thesis: Statistical Analyses and minimum norm interpolation for Two-Layer Neural Networks.
   * GPA: 4.0 / 4.0
-* B.A in Economics and B.S. in Statistics, Seoul National Univeristy, 2013 - 2020.
+* B.A in Economics and B.S. in Statistics, Seoul National Univeristy, 2013.03 - 2020.08.
   * Minor in Computer Science and Engineering.
   * Graduation with Honors (Summa Cum Laude).
-  * Conducted Mandatory Military Service during the undergrad (2014 - 2016).
+  * Conducted Mandatory Military Service during the undergrad (2014.09 - 2016.06).
   * GPA (Overall, Major / Total): 3.96, 4.09 / 4.3
 
 Work experience
