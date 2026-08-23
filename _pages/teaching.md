@@ -10,6 +10,8 @@ author_profile: true
 
 ## Texas A&M University
 ### Teaching Assistant
+* Stat 302: Statistical Methods (Undergrad) (Summer 2026)
+* Stat 201: Elementary Statistical Inference (Undergrad) (Summer 2026)
 * Stat 632: Bayesian Modeling and Inference (Graduate) (Spring 2026)
 * Stat 650: Statistical Foundation For Data Science (Graduate) (Spring 2026)
 * Stat 633: Advanced Bayesian Modeling and Computation (Graduate) (Fall 2025)
