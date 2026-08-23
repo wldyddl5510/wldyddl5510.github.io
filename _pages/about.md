@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jiyoung Park. I am a joint Postdoctoral Associate at Boston University and Massachusetts Institute of Technology (MIT), mentored by [Yves Atchad\'{e}](https://math.bu.edu/people/atchade/) and [Rahul Mazumder](https://www.mit.edu/~rahulmaz/). My current research interests include (but are not limited to) algorithmic statistics, statistical learning theory, approximation theory, optimization theory, and optimal transport.
+My name is Jiyoung Park. I am a joint Postdoctoral Associate at Boston University and Massachusetts Institute of Technology (MIT), mentored by [Yves Atchad\\'{e}](https://math.bu.edu/people/atchade/) and [Rahul Mazumder](https://www.mit.edu/~rahulmaz/). My current research interests include (but are not limited to) algorithmic statistics, statistical learning theory, approximation theory, optimization theory, and optimal transport.
 
 I completed my Ph.D. in Statistics at Texas A&M University, advised by [Anirban Bhattacharya](https://sites.google.com/view/anirban-bhattacharya-tamu/). During my Ph.D., I completed a concurrent dual-degree program, earning a Master’s degree in Mathematics under the guidance of [Jonathan W. Siegel](https://jwsiegel2510.github.io/), and worked closely with [Stephan Wojtowytsch](https://www.swojtowytsch.com/). I did my undergraduate studies at Seoul National University, where I double majored in Economics and Statistics, with a minor in Computer Science and Engineering. After graduation and prior to beginning my Ph.D., I worked as a Research Resident at [KC-ML2](https://www.kc-ml2.com/), conducting research on graph neural networks and reinforcement learning under the supervision of [Chan Y. Park](https://www.linkedin.com/in/chan-youn-park/).
 
