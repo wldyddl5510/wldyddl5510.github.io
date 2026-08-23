@@ -11,13 +11,19 @@ redirect_from:
 
 A pdf version [CV](http://wldyddl5510.github.io/files/cv.pdf).
 
+Academic Positions
+======
+
+* Postdoctoral Associate, Boston University & Massachusetts Institute of Technology, 2026.09 - Present
+  * Mentors: [Yves Atchade](https://math.bu.edu/people/atchade/) & [Rahul Mazumder](https://www.mit.edu/~rahulmaz/).
+
 Education
 ======
-* Ph.D. in Statistics, Texas A&M University, 2021.08 - 2026.08 (expected).
-  * Advisor: [Dr. Anirban Bhattacharya](https://sites.google.com/view/anirban-bhattacharya-tamu/).
+* Ph.D. in Statistics, Texas A&M University, 2021.08 - 2026.08.
+  * Advisor: [Anirban Bhattacharya](https://sites.google.com/view/anirban-bhattacharya-tamu/).
   * GPA: 4.0 / 4.0
 * Master in Mathematics, Texas A&M University, 2023.08 - 2025.12.
-  * Advisor: [Dr. Jonathan W. Siegel](https://jwsiegel2510.github.io/). 
+  * Advisor: [Jonathan W. Siegel](https://jwsiegel2510.github.io/). 
   * Thesis: Statistical Analyses and minimum norm interpolation for Two-Layer Neural Networks.
   * GPA: 4.0 / 4.0
 * B.A in Economics and B.S. in Statistics, Seoul National Univeristy, 2013.03 - 2020.08.
@@ -30,10 +36,10 @@ Work experience
 ======
 * NSF Math Sciences Graduate Internship.
   * National Institute of Standards and Technology (NIST), Gaithersburg (2023.05.22 - 2023.07.28).
-  * Supervisor: [Dr. Günay Doğan](http://gunaydogan.info/).
+  * Supervisor: [Günay Doğan](http://gunaydogan.info/).
   * Topic: Geometric shape analysis.
 * Research Resident, KC-ML2 (2019.05 - 2021.02).
-  * Supervisor: [Dr. Chan Y. Park](https://www.linkedin.com/in/chan-youn-park/).
+  * Supervisor: [Chan Y. Park](https://www.linkedin.com/in/chan-youn-park/).
   * Research in Graph Neural Network and Reinforcement Learning. 
     * [My blog post about Graph Neural Network and GraphDB](https://www.kc-ml2.com/posts/blog_GraphDB&GNN).
 * Software Engineer Intern, Naver Webtoon (2018.07 - 2018.08).
@@ -56,9 +62,13 @@ Service
 ======
 
 * Reviewer
-  * ICML 2026
-  * ICLR 2026.
-  * NeurIPS 2025: Awarded top reviewer.
+  * Journals:
+    * Annals of Statistics.  
+  * Peer-reviewed Conferences:
+    * NeurIPS 2026.
+    * ICML 2026: Awarded a gold reviewer.
+    * ICLR 2026.
+    * NeurIPS 2025: Awarded a top reviewer.
 
 Skills
 ======
